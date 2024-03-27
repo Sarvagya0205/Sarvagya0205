@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarvagya</h1>
 <h3 align="center">Welcome to my Domain.</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Fscrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.html&psig=AOvVaw2n_myF5Scsh0ipp9QUs5jm&ust=1711644230816000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJC4vePxlIUDFQAAAAAdAAAAABBB">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvagya0205&label=Profile%20views&color=0e75b6&style=flat" alt="sarvagya0205" /> </p>
 
 - 🌱 I’m currently learning **Django , Machine Learning(ML)**
