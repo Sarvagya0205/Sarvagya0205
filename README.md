@@ -52,7 +52,7 @@
 <br />
 
 <!-- About Section -->
- # About me
+<!--  # About me
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
@@ -113,4 +113,4 @@
 </a>
 
 
-![Sarvagya's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sarvagya0205&custom_title=Adish%20Garg's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Sarvagya's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sarvagya0205&custom_title=Adish%20Garg's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true) -->
