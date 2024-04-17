@@ -49,8 +49,17 @@
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Adish"  />
   </a> 
 </p>
-<br />
-![Riyoiki Tenkai](https://github.com/Sarvagya0205/Sarvagya0205/blob/main/sukuna-domain-expansion.gif)
+<br /> 
+<p align="center">Welcome to my Domain</p>
+
+
+
+
+<p align="center">
+  <img src="https://github.com/Sarvagya0205/Sarvagya0205/blob/main/sukuna-domain-expansion.gif" width="600" >
+</p>
+
+
 
 <!-- About Section -->
 <!--  # About me
