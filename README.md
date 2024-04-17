@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
- <a href="(https://www.linkedin.com/in/sarvagya-sharma-27565527b/)" target="_blank">
+ <a href="(https://www.linkedin.com/in/sarvagya-sharma-27565527b/)" >
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sarvagya"/>
  </a>
  <a href="https://twitter.com/sarvagyash64281" target="_blank">
